@@ -47,7 +47,7 @@ We chose these entities because they mirror the everyday operations of your typi
 
 Query 1: Retrieve all employees and their roles, sorted by salary
 This query retrieves a list of employees with their roles and salaries and sorts them from highest to lowest salary. This query also helps the bakery review payroll expenses and ensure fair wages.This can be useful when deciding salary adjustments or promotions and helps in budgeting for new hires (e.g., knowing how much they pay top bakers vs. cashiers).
-
+![image](https://github.com/user-attachments/assets/36fbbd4b-8ccc-4d1a-a9b0-932939fb74c8)
 
 Query 2: List all clients with their contact details, but only those who have placed an order
 This query retrieves only customers who have made a purchase (ignores inactive clients) and ensures no duplicates appear in the results. This query can also help with customer retention efforts—targeting buyers for special discounts or loyalty programs, sending email promotions or follow-up messages to actual customers, and prevents marketing efforts from being wasted on clients who never made a purchase.
