@@ -14,8 +14,7 @@
 # Project Description
   We were tasked with designing a data model, converting it to a relational database, inputting data, and writing
 queries for the data for a bakery store. The bakery store has a structure within itself, including the customers and employees as well as necessary equipment to bake the goods.
-As with any business, there are orders and details about those to keep track of. And the supplies for the bakery are sourced from another company, simulating a real world 
-example with small businesses and supply chain relations. Throughout this problem, we dive into modeling the various entities that make up the company, generating and inputting relevant data for the entities. We then  provide functioning queries for the generated data, resulting in insights about the bakery store's functions.
+As with any business, there are orders and details regarding transactions to keep track of. And the supplies for the bakery are sourced from another company, simulating a real world example with small businesses and supply chain relations. Throughout this problem, we dive into modeling the various entities that make up the company, generating and inputting relevant data for the entities. We then  provide functioning queries for the generated data, resulting in insights about the bakery store's functions.
 
 # Data Model Description
  Our model is based on a bakery store’s internal structure. The product entity represents the baked goods that our bakery is selling, which is connected to a supplier with a one to many relationship, since one supplier can supply multiple different products to the bakery. The ingredients are also connected to the supplier, with one supplier supplying multiple ingredients, which are later used in the recipe creating another one-to-many relationship between recipe to ingredients and a one-to-one relationship between recipe and products. 
