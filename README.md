@@ -48,22 +48,29 @@ We chose these entities because they mirror the everyday operations of your typi
 Query 1: Retrieve all employees and their roles, sorted by salary
 This query retrieves a list of employees with their roles and salaries and sorts them from highest to lowest salary. This query also helps the bakery review payroll expenses and ensure fair wages.This can be useful when deciding salary adjustments or promotions and helps in budgeting for new hires (e.g., knowing how much they pay top bakers vs. cashiers).
 ![image](https://github.com/user-attachments/assets/36fbbd4b-8ccc-4d1a-a9b0-932939fb74c8)
+![image](https://github.com/user-attachments/assets/14617cf5-97b7-40a6-bc39-7cba5fa177e2)
+
 
 Query 2: List all clients with their contact details, but only those who have placed an order
 This query retrieves only customers who have made a purchase (ignores inactive clients) and ensures no duplicates appear in the results. This query can also help with customer retention efforts—targeting buyers for special discounts or loyalty programs, sending email promotions or follow-up messages to actual customers, and prevents marketing efforts from being wasted on clients who never made a purchase.
-
-
+![image](https://github.com/user-attachments/assets/bcefdc92-985f-42c5-ad5a-e7b71435c45b)
+![image](https://github.com/user-attachments/assets/4a9a01c7-c112-4a27-879a-c69df359d5ca)
 Query 3: Get all pending orders, sorted by most recent
 This query retrieves all unfulfilled orders that are still marked as "Pending"and sorts them so that the newest orders appear first. It also ensures no orders are left waiting too long, improving customer satisfaction, helps prioritize recent and urgent orders for better workflow management, and is useful for tracking order delays and resolving bottlenecks in the baking process.
+![image](https://github.com/user-attachments/assets/c42c5ba6-32b7-47b1-a109-dbfdffcbbe55)
+![image](https://github.com/user-attachments/assets/166e3324-e471-4b01-99ff-cb947916c59e)
+
 Query 4: Find all baked goods and their prices, showing only items above $4.00
 This query retrieves only baked goods priced above $4.00 and sorts them from cheapest to most expensive. This query can help evaluate high-margin items to see which expensive products generate more profit, be used for pricing strategy—determining whether to increase prices, introduce discounts, or bundle items, and ensure premium-priced items are properly displayed and promoted.
-
+![image](https://github.com/user-attachments/assets/b73672ba-fabb-45bf-9148-dff0620d4475)
+![image](https://github.com/user-attachments/assets/71a8c1c0-01b2-4f6a-99c2-8d581102ed02)
 
 Query 5: Find the total revenue generated from all transactions (complex)
 The query calculates total revenue from completed sales and ensures only fully processed and completed transactions are counted.
 Financial Planning: Helps bakery owners analyze weekly, monthly, or yearly income trends.
 Profitability Analysis: Management can determine if they need to increase sales, adjust pricing, or introduce promotions.
-
+![image](https://github.com/user-attachments/assets/9ed31747-4d45-489d-8d92-32a76bef715c)
+![image](https://github.com/user-attachments/assets/8516ebf4-7b46-4e98-b52b-7ca60c6dc288)
 
 Query 6: Get the number of orders placed by each client (complex)
 The query identifies repeat customers and how often they place orders and helps understand customer loyalty and purchasing patterns. 
@@ -75,7 +82,8 @@ Query 7: Retrieve all orders along with the total quantity of items ordered (com
 The query summarizes the total number of items in each order and highlights large orders, which may be for events or wholesale customers.
 Inventory Management: Ensures the bakery has enough stock to meet demand.
 Targeting Bulk Buyers: If businesses frequently place large orders, the bakery can offer corporate discounts or catering services.
-
+![image](https://github.com/user-attachments/assets/14338cbc-217a-4c61-bf6b-0c78168d9687)
+![image](https://github.com/user-attachments/assets/9aac6d16-5316-4de6-bd46-fe1e810e9ff1)
 
 Query 8: Find the most used ingredient across all baked goods (complex)
 The query identifies which ingredient is used the most in recipes and helps plan purchases for high-demand ingredients.
@@ -92,6 +100,8 @@ Query 10: Retrieve the best-rated baked good based on client reviews (complex)
 The query determines which baked goods have the highest customer ratings and uses a correlated subquery to dynamically calculate ratings for each item.
 Menu Optimization: The bakery can highlight or promote top-rated items.
 Quality Control: If an item has consistently low ratings, the bakery can improve the recipe or discontinue it.
+![image](https://github.com/user-attachments/assets/0b6db900-0a86-47a8-b908-50d3ba8becc9)
+![image](https://github.com/user-attachments/assets/c4e6c1a8-650d-4afb-81ea-3763d04618aa)
 
 # Database Information 
 
