@@ -28,9 +28,10 @@ We chose these entities because they mirror the everyday operations of your typi
 
 # Data Dictionary
   Here is the data dictionary for our model.
+
+  
   <img width="630" alt="Screenshot 2025-03-17 at 2 13 04 PM" src="https://github.com/user-attachments/assets/2e4a854d-8fcd-4264-b1b0-627441709049" />
   
-![Screenshot 2025-03-17 at 2 13 34 PM](https://github.com/user-attachments/assets/ff0a7c35-9580-4de6-9a17-9656e5729560)
 
 
 <img width="658" alt="Screenshot 2025-03-17 at 2 14 39 PM" src="https://github.com/user-attachments/assets/863a0ec6-e0b9-41bb-ae73-f5b9a701bd87" />
