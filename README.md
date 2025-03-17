@@ -31,8 +31,9 @@ We chose these entities because they mirror the everyday operations of your typi
   
   <img width="630" alt="Screenshot 2025-03-17 at 2 13 04 PM" src="https://github.com/user-attachments/assets/2e4a854d-8fcd-4264-b1b0-627441709049" />
 
-<img width="632" alt="Screenshot 2025-03-17 at 2 14 23 PM" src="https://github.com/user-attachments/assets/c722b103-7950-4cec-be16-f97921408544" />
+<img width="673" alt="Screenshot 2025-03-17 at 2 38 08 PM" src="https://github.com/user-attachments/assets/ded0b33c-e806-48c6-bd9f-e31ebd0f5edc" />
 
+<img width="639" alt="Screenshot 2025-03-17 at 2 38 13 PM" src="https://github.com/user-attachments/assets/181c769e-2b4f-4212-bfe0-dc39d547c3ef" />
 
 <img width="658" alt="Screenshot 2025-03-17 at 2 14 39 PM" src="https://github.com/user-attachments/assets/863a0ec6-e0b9-41bb-ae73-f5b9a701bd87" />
 
