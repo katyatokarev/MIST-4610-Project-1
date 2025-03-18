@@ -55,8 +55,12 @@ Query 2: List all clients with their contact details, but only those who have pl
 This query retrieves only customers who have made a purchase (ignores inactive clients) and ensures no duplicates appear in the results. This query can also help with customer retention efforts—targeting buyers for special discounts or loyalty programs, sending email promotions or follow-up messages to actual customers, and prevents marketing efforts from being wasted on clients who never made a purchase.
 ![image](https://github.com/user-attachments/assets/bcefdc92-985f-42c5-ad5a-e7b71435c45b)
 ![image](https://github.com/user-attachments/assets/4a9a01c7-c112-4a27-879a-c69df359d5ca)
+
 Query 3: Get all pending orders, sorted by most recent
 This query retrieves all unfulfilled orders that are still marked as "Pending"and sorts them so that the newest orders appear first. It also ensures no orders are left waiting too long, improving customer satisfaction, helps prioritize recent and urgent orders for better workflow management, and is useful for tracking order delays and resolving bottlenecks in the baking process.
+<img width="471" alt="Screenshot 2025-03-17 at 8 56 44 PM" src="https://github.com/user-attachments/assets/3e3f8086-5c5f-4a05-8f23-f44be071a863" />
+<img width="334" alt="Screenshot 2025-03-17 at 8 57 05 PM" src="https://github.com/user-attachments/assets/eb37f8ad-b34e-4607-9e56-af8ff2abd493" />
+
 ![image](https://github.com/user-attachments/assets/c42c5ba6-32b7-47b1-a109-dbfdffcbbe55)
 ![image](https://github.com/user-attachments/assets/166e3324-e471-4b01-99ff-cb947916c59e)
 
