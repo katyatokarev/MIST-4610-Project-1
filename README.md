@@ -126,7 +126,8 @@ Quality Control: If an item has consistently low ratings, the bakery can improve
 
 # Database Information 
 
-<img width="639" alt="Screenshot 2025-03-17 at 2 32 53 PM" src="https://github.com/user-attachments/assets/b11f4a48-a40a-41dc-82b6-b1058ae6a4dc" />
+<img width="651" alt="Screenshot 2025-03-17 at 9 27 17 PM" src="https://github.com/user-attachments/assets/c6e8a03e-71f9-4dfe-ade6-0d9b74d58357" />
+
 
 <img width="629" alt="Screenshot 2025-03-17 at 2 33 06 PM" src="https://github.com/user-attachments/assets/8cef809c-a2f3-44e9-b9f6-90b918ad6ecc" />
 
