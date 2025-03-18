@@ -102,6 +102,11 @@ The query identifies which ingredient is used the most in recipes and helps plan
 Cost Optimization: Helps negotiate bulk discounts with suppliers for the most-used ingredients.
 Menu Adjustments: If an ingredient is overused and expensive, the bakery might modify recipes or adjust pricing.
 
+![Image 3-17-25 at 9 01 PM](https://github.com/user-attachments/assets/8fd11f8b-87dc-4811-9585-2ef0082a930d)
+
+
+<img width="198" alt="Screenshot 2025-03-17 at 9 24 23 PM" src="https://github.com/user-attachments/assets/e2b0c77f-4fb5-4912-aba1-a901e0f2ea5d" />
+
 
 Query 9: List employees along with the total number of shifts they have worked (complex)
 This query tracks how many shifts each employee has worked and ensures fair workload distribution among staff.
