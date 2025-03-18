@@ -83,6 +83,11 @@ The query identifies repeat customers and how often they place orders and helps 
 Customer Retention: The bakery can offer discounts or loyalty rewards to frequent buyers.
 Personalized Marketing: If a customer consistently orders croissants, the bakery can suggest new pastry items they might like.
 
+<img width="490" alt="Screenshot 2025-03-17 at 9 18 37 PM" src="https://github.com/user-attachments/assets/3d37c478-ea7d-4ab4-b229-13e602b22776" />
+
+
+<img width="241" alt="Screenshot 2025-03-17 at 9 19 01 PM" src="https://github.com/user-attachments/assets/19c01db3-0279-4aec-964e-a7cc88110f2e" />
+
 
 Query 7: Retrieve all orders along with the total quantity of items ordered (complex)
 The query summarizes the total number of items in each order and highlights large orders, which may be for events or wholesale customers.
