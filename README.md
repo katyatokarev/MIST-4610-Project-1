@@ -102,6 +102,8 @@ Query 9: List employees along with the total number of shifts they have worked (
 This query tracks how many shifts each employee has worked and ensures fair workload distribution among staff.
 Payroll & Overtime Management: Helps track who has worked extra hours and if overtime pay is required. Allows management to see which employees have not worked as many shifts which may lead to cutting employees or hiring new ones.
 Scheduling Efficiency: Prevents overworking employees while ensuring enough coverage for busy hours.
+<img width="630" alt="Screenshot 2025-03-17 at 9 15 42 PM" src="https://github.com/user-attachments/assets/2d2ed62d-6be1-42fa-aa48-d742957e3015" />
+<img width="653" alt="Screenshot 2025-03-17 at 9 16 07 PM" src="https://github.com/user-attachments/assets/f30ccf15-97f9-4f65-9282-2acdcd1fe9db" />
 
 Query 10: Retrieve the best-rated baked good based on client reviews (complex)
 The query determines which baked goods have the highest customer ratings and uses a correlated subquery to dynamically calculate ratings for each item.
