@@ -7,9 +7,9 @@
 
 1. Rachel Cox [@rachellcox](https://github.com/rachellcox)
 2. Jack Delinsky [@JackDelinsky](https://github.com/JackDelinsky)
-3. Summer Arrington @SummerA100 [@SummerA100](https://github.com/SummerA100)
-4. Nivedita Ganesan @niviganesan [@niviganesan](https://github.com/niviganesan)
-5. Katya Tokarev @katyatokarev [@katyatokarev](https://github.com/katyatokarev)
+3. Summer Arrington [@SummerA100](https://github.com/SummerA100)
+4. Nivedita Ganesan [@niviganesan](https://github.com/niviganesan)
+5. Katya Tokarev [@katyatokarev](https://github.com/katyatokarev)
 
 # Project Description
   We were tasked with designing a data model, converting it to a relational database, inputting data, and writing
