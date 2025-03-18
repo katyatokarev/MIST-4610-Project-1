@@ -108,10 +108,8 @@ Menu Adjustments: If an ingredient is overused and expensive, the bakery might m
 <img width="198" alt="Screenshot 2025-03-17 at 9 24 23 PM" src="https://github.com/user-attachments/assets/e2b0c77f-4fb5-4912-aba1-a901e0f2ea5d" />
 
 
-Query 9: List employees along with the total number of shifts they have worked (complex)
-This query tracks how many shifts each employee has worked and ensures fair workload distribution among staff.
-Payroll & Overtime Management: Helps track who has worked extra hours and if overtime pay is required. Allows management to see which employees have not worked as many shifts which may lead to cutting employees or hiring new ones.
-Scheduling Efficiency: Prevents overworking employees while ensuring enough coverage for busy hours.
+Query 9: This query finds most profitable baked goods
+The subquery calculates total revenue for each baked good by: Multiplying quantityOrdered by goodPrice. Filtering only "Completed" orders. Orders the results from highest to lowest revenue. This helps the business identify which baked goods generate the most revenue, so they know which products to promote. This also supports a pricing strategy based on demand from customers.
 
 <img width="630" alt="Screenshot 2025-03-17 at 9 15 42 PM" src="https://github.com/user-attachments/assets/2d2ed62d-6be1-42fa-aa48-d742957e3015" />
 <img width="653" alt="Screenshot 2025-03-17 at 9 16 07 PM" src="https://github.com/user-attachments/assets/f30ccf15-97f9-4f65-9282-2acdcd1fe9db" />
