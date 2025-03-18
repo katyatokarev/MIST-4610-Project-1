@@ -8,7 +8,7 @@
 1. Rachel Cox @rachellcox
 2. Jack Delinsky @JackDelinsky
 3. Summer Arrington @SummerA100
-4. Nivi Ganesan @niviganesan
+4. Nivedita Ganesan @niviganesan
 5. Katya Tokarev @katyatokarev
 
 # Project Description
