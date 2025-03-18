@@ -61,9 +61,6 @@ This query retrieves all unfulfilled orders that are still marked as "Pending"an
 <img width="471" alt="Screenshot 2025-03-17 at 8 56 44 PM" src="https://github.com/user-attachments/assets/3e3f8086-5c5f-4a05-8f23-f44be071a863" />
 <img width="334" alt="Screenshot 2025-03-17 at 8 57 05 PM" src="https://github.com/user-attachments/assets/eb37f8ad-b34e-4607-9e56-af8ff2abd493" />
 
-![image](https://github.com/user-attachments/assets/c42c5ba6-32b7-47b1-a109-dbfdffcbbe55)
-![image](https://github.com/user-attachments/assets/166e3324-e471-4b01-99ff-cb947916c59e)
-
 Query 4: Find all baked goods and their prices, showing only items above $4.00
 This query retrieves only baked goods priced above $4.00 and sorts them from cheapest to most expensive. This query can help evaluate high-margin items to see which expensive products generate more profit, be used for pricing strategy—determining whether to increase prices, introduce discounts, or bundle items, and ensure premium-priced items are properly displayed and promoted.
 ![image](https://github.com/user-attachments/assets/b73672ba-fabb-45bf-9148-dff0620d4475)
