@@ -5,7 +5,7 @@
 
 # Group Members
 
-1. Rachel Cox @rachellcox[rachellcox](https://github.com/rachellcox)
+1. Rachel Cox [@rachellcox](https://github.com/rachellcox)
 2. Jack Delinsky @JackDelinsky
 3. Summer Arrington @SummerA100
 4. Nivedita Ganesan @niviganesan
